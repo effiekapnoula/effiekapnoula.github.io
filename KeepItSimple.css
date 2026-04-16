@@ -266,7 +266,7 @@ input.button {
 }
 #header #header-image {
 	position: absolute;
-	background: url(../images/Picture1.png) no-repeat;
+	background: url(../Picture1.png) no-repeat;
 	width: 371px;
 	height: 263px;	
 	right: 10px; top: 100px;	
